@@ -1,5 +1,5 @@
 # workshops
-All programming workshops prepared by me.
+All programming workshops prepared and carried out by me.
 
 # java11-vavr093-workshops
 * https://github.com/mtumilowicz/java11-vavr093-workshops
