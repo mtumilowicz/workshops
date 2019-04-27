@@ -1,12 +1,21 @@
 # workshops
 All programming workshops prepared and carried out by me.
 
+# netty
+* **TBA:** netty echo server workshop
+
 # websockets
 ## nodejs
-* https://github.com/mtumilowicz/js-nodejs-websocket
-  * **TBA:** https://github.com/mtumilowicz/js-nodejs-websocket-echo-server
-  * **TBA:** https://github.com/mtumilowicz/js-nodejs-websocket-stock-server
-  * **TBA:** https://github.com/mtumilowicz/js-nodejs-websocket-chat
+* **TBA:** nodejs websocket echo server workshop
+* **TBA:** nodejs websocket stock server workshop
+* **TBA:** nodejs websocket chat workshop
+
+## spring boot
+* **TBA:** spring boot websocket echo server
+
+## netty
+* **TBA:** netty websocket echo server workshop
+* **TBA:** netty websocket chat workshop
 
 # vavr
 ## java11-vavr093-workshops
