@@ -3,6 +3,9 @@
 # workshops
 All programming workshops prepared and carried out by me.
 
+# java
+* **TBA:** most frequent coding interview questions in java
+
 # netty
 * **TBA:** netty echo server workshop
 
