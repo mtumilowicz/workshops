@@ -17,8 +17,10 @@ All programming workshops prepared and carried out by me.
   https://github.com/mtumilowicz/java11-vavr093-partial-function-lifting-workshop
   * [![Build Status](https://travis-ci.com/mtumilowicz/java11-vavr093-either-workshop.svg?branch=master)](https://travis-ci.com/mtumilowicz/java11-vavr093-either-workshop)
   https://github.com/mtumilowicz/java11-vavr093-either-workshop
-  * [![Build Status](https://travis-ci.com/mtumilowicz/java11-vavr093-pattern-matching-workshop.svg?branch=master)](https://travis-ci.com/mtumilowicz/java11-vavr093-pattern-matching-workshop) https://github.com/mtumilowicz/java11-vavr093-pattern-matching-workshop
-  * **TBA:** https://github.com/mtumilowicz/java11-vavr093-validation-workshop
+  * [![Build Status](https://travis-ci.com/mtumilowicz/java11-vavr093-pattern-matching-workshop.svg?branch=master)](https://travis-ci.com/mtumilowicz/java11-vavr093-pattern-matching-workshop) 
+  https://github.com/mtumilowicz/java11-vavr093-pattern-matching-workshop
+  * [![Build Status](https://travis-ci.com/mtumilowicz/java11-vavr093-validation-workshop.svg?branch=master)](https://travis-ci.com/mtumilowicz/java11-vavr093-validation-workshop)
+  https://github.com/mtumilowicz/java11-vavr093-validation-workshop
 
 # websockets
 ## netty
