@@ -31,9 +31,10 @@ All programming workshops prepared and carried out by me.
 * **TBA:** netty websocket chat workshop
 
 ## nodejs
-* **TBA:** nodejs websocket echo server workshop
-* **TBA:** nodejs websocket stock server workshop
-* **TBA:** nodejs websocket chat workshop
+* https://github.com/mtumilowicz/js-nodejs-websocket-workshop
+ * **TBA:** nodejs websocket echo server workshop
+ * **TBA:** nodejs websocket stock server workshop
+ * **TBA:** nodejs websocket chat workshop
 
 ## spring boot
 * **TBA:** spring boot websocket echo server
