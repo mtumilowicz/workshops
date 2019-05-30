@@ -3,11 +3,13 @@
 # workshops
 All programming workshops prepared and carried out by me.
 
-# java
+# algorithms
 * **TBA:** most frequent coding interview questions in java
 
 # netty
 * **TBA:** netty echo server workshop
+* **TBA:** netty websocket echo server workshop
+* **TBA:** netty websocket chat workshop
 
 # vavr
 ## java11-vavr093-workshops
@@ -26,11 +28,6 @@ All programming workshops prepared and carried out by me.
   https://github.com/mtumilowicz/java11-vavr093-validation-workshop
 
 # websockets
-## netty
-* **TBA:** netty websocket echo server workshop
-* **TBA:** netty websocket chat workshop
-
-## nodejs
 * https://github.com/mtumilowicz/js-nodejs-websocket-workshop
   * https://github.com/mtumilowicz/js-nodejs-websocket-echo-server-workshop
   * https://github.com/mtumilowicz/js-nodejs-websocket-stock-server-workshop
