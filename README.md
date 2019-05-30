@@ -33,7 +33,7 @@ All programming workshops prepared and carried out by me.
 ## nodejs
 * https://github.com/mtumilowicz/js-nodejs-websocket-workshop
   * https://github.com/mtumilowicz/js-nodejs-websocket-echo-server
-  * **TBA:** nodejs websocket stock server workshop
+  * https://github.com/mtumilowicz/js-nodejs-websocket-stock-server
   * **TBA:** nodejs websocket chat workshop
 
 ## spring boot
