@@ -28,7 +28,7 @@ All programming workshops prepared and carried out by me.
   https://github.com/mtumilowicz/java11-vavr093-validation-workshop
 
 # websockets
-* https://github.com/mtumilowicz/js-nodejs-websocket-workshop
+* https://github.com/mtumilowicz/js-nodejs-websocket-workshop-theory
   * https://github.com/mtumilowicz/js-nodejs-websocket-echo-server-workshop
   * https://github.com/mtumilowicz/js-nodejs-websocket-stock-server-workshop
   * **TBA:** nodejs websocket chat workshop
