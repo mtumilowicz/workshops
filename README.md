@@ -31,11 +31,15 @@ https://github.com/mtumilowicz/java12-introduction-to-functional-programming-wor
   * [![Build Status](https://travis-ci.com/mtumilowicz/java11-vavr093-validation-workshop.svg?branch=master)](https://travis-ci.com/mtumilowicz/java11-vavr093-validation-workshop)
   https://github.com/mtumilowicz/java11-vavr093-validation-workshop
 
+## server
+### blocking
+* [![Build Status](https://travis-ci.com/mtumilowicz/java12-io-socket-client-server-workshop.svg?branch=master)](https://travis-ci.com/mtumilowicz/java12-io-socket-client-server-workshop) https://github.com/mtumilowicz/java12-io-socket-client-server-workshop
+
+## spring boot
+* **TBA:** spring boot websocket echo server
+
 # websockets
 * https://github.com/mtumilowicz/js-nodejs-websocket-workshop-theory
   * https://github.com/mtumilowicz/js-nodejs-websocket-echo-server-workshop
   * https://github.com/mtumilowicz/js-nodejs-websocket-stock-server-workshop
   * https://github.com/mtumilowicz/js-nodejs-websocket-chat-workshop
-
-## spring boot
-* **TBA:** spring boot websocket echo server
