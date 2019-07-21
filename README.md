@@ -34,7 +34,7 @@ https://github.com/mtumilowicz/java12-introduction-to-functional-programming-wor
 ## server
 ### blocking
 * [![Build Status](https://travis-ci.com/mtumilowicz/java12-io-socket-client-server-workshop.svg?branch=master)](https://travis-ci.com/mtumilowicz/java12-io-socket-client-server-workshop) https://github.com/mtumilowicz/java12-io-socket-client-server-workshop
-* [![Build Status](https://travis-ci.com/mtumilowicz/java12-nio-blocking-client-server-workshop.svg?branch=master)](https://travis-ci.com/mtumilowicz/java12-nio-blocking-client-server-workshop) https://github.com/mtumilowicz/java12-nio-blocking-client-server-workshop
+* [![Build Status](https://travis-ci.com/mtumilowicz/java12-nio-channel-client-server-workshop.svg?branch=master)](https://travis-ci.com/mtumilowicz/java12-nio-channel-client-server-workshop) https://github.com/mtumilowicz/java12-nio-blocking-client-server-workshop
 
 ## spring boot
 * **TBA:** spring boot websocket echo server
