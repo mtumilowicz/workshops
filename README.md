@@ -18,7 +18,7 @@ https://github.com/mtumilowicz/java12-introduction-to-functional-programming-wor
 # vavr
 ## java11-vavr093-workshops
 * https://github.com/mtumilowicz/java11-vavr093-workshops
-  * [![Build Status](https://travis-ci.com/mtumilowicz/java11-vavr093-option-workshop.svg?branch=master)](https://travis-ci.com/mtumilowicz/java11-vavr093-option-workshop)
+  * [![Build Status](https://travis-ci.com/mtumilowicz/java11-vavr093-workshops.svg?branch=master)](https://travis-ci.com/mtumilowicz/java11-vavr093-workshops)
   https://github.com/mtumilowicz/java11-vavr093-option-workshop
   * [![Build Status](https://travis-ci.com/mtumilowicz/java11-vavr093-try-workshop.svg?branch=master)](https://travis-ci.com/mtumilowicz/java11-vavr093-try-workshop)
   https://github.com/mtumilowicz/java11-vavr093-try-workshop
