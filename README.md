@@ -17,19 +17,14 @@ https://github.com/mtumilowicz/java12-introduction-to-functional-programming-wor
 
 # vavr
 ## java11-vavr093-workshops
-* https://github.com/mtumilowicz/java11-vavr093-workshops
-  * [![Build Status](https://travis-ci.com/mtumilowicz/java11-vavr093-workshops.svg?branch=master)](https://travis-ci.com/mtumilowicz/java11-vavr093-workshops)
-  https://github.com/mtumilowicz/java11-vavr093-option-workshop
-  * [![Build Status](https://travis-ci.com/mtumilowicz/java11-vavr093-try-workshop.svg?branch=master)](https://travis-ci.com/mtumilowicz/java11-vavr093-try-workshop)
-  https://github.com/mtumilowicz/java11-vavr093-try-workshop
-  * [![Build Status](https://travis-ci.com/mtumilowicz/java11-vavr093-partial-function-lifting-workshop.svg?branch=master)](https://travis-ci.com/mtumilowicz/java11-vavr093-partial-function-lifting-workshop)
-  https://github.com/mtumilowicz/java11-vavr093-partial-function-lifting-workshop
-  * [![Build Status](https://travis-ci.com/mtumilowicz/java11-vavr093-either-workshop.svg?branch=master)](https://travis-ci.com/mtumilowicz/java11-vavr093-either-workshop)
-  https://github.com/mtumilowicz/java11-vavr093-either-workshop
-  * [![Build Status](https://travis-ci.com/mtumilowicz/java11-vavr093-pattern-matching-workshop.svg?branch=master)](https://travis-ci.com/mtumilowicz/java11-vavr093-pattern-matching-workshop) 
-  https://github.com/mtumilowicz/java11-vavr093-pattern-matching-workshop
-  * [![Build Status](https://travis-ci.com/mtumilowicz/java11-vavr093-validation-workshop.svg?branch=master)](https://travis-ci.com/mtumilowicz/java11-vavr093-validation-workshop)
-  https://github.com/mtumilowicz/java11-vavr093-validation-workshop
+* [![Build Status](https://travis-ci.com/mtumilowicz/java11-vavr093-workshops.svg?branch=master)](https://travis-ci.com/mtumilowicz/java11-vavr093-workshops)
+https://github.com/mtumilowicz/java11-vavr093-workshops
+  * option-workshop
+  * try-workshop
+  * partial-function-lifting-workshop
+  * either-workshop
+  * pattern-matching-workshop
+  * validation-workshop
 
 ## server
 ### blocking
