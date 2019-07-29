@@ -15,6 +15,8 @@ https://github.com/mtumilowicz/java12-introduction-to-functional-programming-wor
 * **TBA:** netty websocket echo server workshop
 * **TBA:** netty websocket chat workshop
 
+# reactive programming
+
 # vavr
 ## java11-vavr093-workshops
 * [![Build Status](https://travis-ci.com/mtumilowicz/java11-vavr093-workshops.svg?branch=master)](https://travis-ci.com/mtumilowicz/java11-vavr093-workshops)
