@@ -40,6 +40,6 @@ https://github.com/mtumilowicz/java11-vavr093-workshops
 
 # websockets
 * https://github.com/mtumilowicz/js-nodejs-websocket-workshop
-  * js-nodejs-websocket-echo-server-workshop
-  * js-nodejs-websocket-stock-server-workshop
-  * js-nodejs-websocket-chat-workshop
+  * websocket-echo-server-workshop
+  * websocket-stock-server-workshop
+  * websocket-chat-workshop
