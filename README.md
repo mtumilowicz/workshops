@@ -39,7 +39,4 @@ https://github.com/mtumilowicz/java11-vavr093-workshops
 * **TBA:** spring boot websocket echo server
 
 # websockets
-* https://github.com/mtumilowicz/js-nodejs-websocket-workshop-theory
-  * https://github.com/mtumilowicz/js-nodejs-websocket-echo-server-workshop
-  * https://github.com/mtumilowicz/js-nodejs-websocket-stock-server-workshop
-  * https://github.com/mtumilowicz/js-nodejs-websocket-chat-workshop
+* https://github.com/mtumilowicz/js-nodejs-websocket-workshop
