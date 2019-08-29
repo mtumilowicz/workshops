@@ -36,7 +36,8 @@ https://github.com/mtumilowicz/java11-vavr093-workshops
 * [![Build Status](https://travis-ci.com/mtumilowicz/java12-nio-blocking-client-server-workshop.svg?branch=master)](https://travis-ci.com/mtumilowicz/java12-nio-blocking-client-server-workshop) https://github.com/mtumilowicz/java12-nio-blocking-client-server-workshop
 
 ### non-blocking
-* [![Build Status](https://travis-ci.com/mtumilowicz/java12-nio-non-blocking-client-server-workshop.svg?branch=master)](https://travis-ci.com/mtumilowicz/java12-nio-non-blocking-client-server-workshop) https://github.com/mtumilowicz/java12-nio-non-blocking-client-server-workshop
+* [![Build Status](https://travis-ci.com/mtumilowicz/java12-nio-non-blocking-polling-server-workshop.svg?branch=master)](https://travis-ci.com/mtumilowicz/java12-nio-non-blocking-polling-server-workshop) https://travis-ci.com/mtumilowicz/java12-nio-non-blocking-polling-server-workshop
+* [![Build Status](https://travis-ci.com/mtumilowicz/java12-nio-non-blocking-client-server-workshop.svg?branch=master)](https://travis-ci.com/mtumilowicz/java12-nio-non-blocking-selector-server-workshop) https://github.com/mtumilowicz/java12-nio-non-blocking-selector-server-workshop
 
 ## spring boot
 * **TBA:** spring boot websocket echo server
