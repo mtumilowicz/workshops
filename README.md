@@ -25,6 +25,15 @@ https://github.com/mtumilowicz/java12-fundamentals-hash-map-implementation-works
 * [![Build Status](https://travis-ci.com/mtumilowicz/java12-introduction-to-reactive-programming-workshop.svg?branch=master)](https://travis-ci.com/mtumilowicz/java12-introduction-to-reactive-programming-workshop)
 https://github.com/mtumilowicz/java12-introduction-to-reactive-programming-workshop
 
+# server
+## blocking
+* [![Build Status](https://travis-ci.com/mtumilowicz/java12-io-socket-client-server-workshop.svg?branch=master)](https://travis-ci.com/mtumilowicz/java12-io-socket-client-server-workshop) https://github.com/mtumilowicz/java12-io-socket-client-server-workshop
+* [![Build Status](https://travis-ci.com/mtumilowicz/java12-nio-blocking-client-server-workshop.svg?branch=master)](https://travis-ci.com/mtumilowicz/java12-nio-blocking-client-server-workshop) https://github.com/mtumilowicz/java12-nio-blocking-client-server-workshop
+
+## non-blocking
+* [![Build Status](https://travis-ci.com/mtumilowicz/java12-nio-non-blocking-polling-server-workshop.svg?branch=master)](https://travis-ci.com/mtumilowicz/java12-nio-non-blocking-polling-server-workshop) https://github.com/mtumilowicz/java12-nio-non-blocking-polling-server-workshop
+* [![Build Status](https://travis-ci.com/mtumilowicz/java12-nio-non-blocking-selector-server-workshop.svg?branch=master)](https://travis-ci.com/mtumilowicz/java12-nio-non-blocking-selector-server-workshop) https://github.com/mtumilowicz/java12-nio-non-blocking-selector-server-workshop
+
 # vavr
 ## java11-vavr093-workshops
 * [![Build Status](https://travis-ci.com/mtumilowicz/java11-vavr093-workshops.svg?branch=master)](https://travis-ci.com/mtumilowicz/java11-vavr093-workshops)
@@ -35,15 +44,6 @@ https://github.com/mtumilowicz/java11-vavr093-workshops
   * either-workshop
   * pattern-matching-workshop
   * validation-workshop
-
-# server
-## blocking
-* [![Build Status](https://travis-ci.com/mtumilowicz/java12-io-socket-client-server-workshop.svg?branch=master)](https://travis-ci.com/mtumilowicz/java12-io-socket-client-server-workshop) https://github.com/mtumilowicz/java12-io-socket-client-server-workshop
-* [![Build Status](https://travis-ci.com/mtumilowicz/java12-nio-blocking-client-server-workshop.svg?branch=master)](https://travis-ci.com/mtumilowicz/java12-nio-blocking-client-server-workshop) https://github.com/mtumilowicz/java12-nio-blocking-client-server-workshop
-
-## non-blocking
-* [![Build Status](https://travis-ci.com/mtumilowicz/java12-nio-non-blocking-polling-server-workshop.svg?branch=master)](https://travis-ci.com/mtumilowicz/java12-nio-non-blocking-polling-server-workshop) https://github.com/mtumilowicz/java12-nio-non-blocking-polling-server-workshop
-* [![Build Status](https://travis-ci.com/mtumilowicz/java12-nio-non-blocking-selector-server-workshop.svg?branch=master)](https://travis-ci.com/mtumilowicz/java12-nio-non-blocking-selector-server-workshop) https://github.com/mtumilowicz/java12-nio-non-blocking-selector-server-workshop
 
 # websockets
 * https://github.com/mtumilowicz/js-nodejs-websocket-workshop
