@@ -35,7 +35,6 @@ https://github.com/mtumilowicz/java12-introduction-to-reactive-programming-works
 * [![Build Status](https://travis-ci.com/mtumilowicz/java12-nio-non-blocking-selector-server-workshop.svg?branch=master)](https://travis-ci.com/mtumilowicz/java12-nio-non-blocking-selector-server-workshop) https://github.com/mtumilowicz/java12-nio-non-blocking-selector-server-workshop
 
 # vavr
-## java11-vavr093-workshops
 * [![Build Status](https://travis-ci.com/mtumilowicz/java11-vavr093-workshops.svg?branch=master)](https://travis-ci.com/mtumilowicz/java11-vavr093-workshops)
 https://github.com/mtumilowicz/java11-vavr093-workshops
   * option-workshop
