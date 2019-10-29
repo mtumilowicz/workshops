@@ -6,6 +6,8 @@ All programming workshops prepared and carried out by me.
 # algorithms
 * **TBA:** most frequent coding interview questions in java
 
+# dsl
+
 # functional programming
 * [![Build Status](https://travis-ci.com/mtumilowicz/java12-introduction-to-functional-programming-workshop.svg?branch=master)](https://travis-ci.com/mtumilowicz/java12-introduction-to-functional-programming-workshop)
 https://github.com/mtumilowicz/java12-introduction-to-functional-programming-workshop
@@ -15,6 +17,10 @@ https://github.com/mtumilowicz/java12-introduction-to-functional-programming-wor
 https://github.com/mtumilowicz/java12-fundamentals-hash-map-implementation-workshop
 
 # metaprogramming
+## runtime
+* [![Build Status](https://travis-ci.com/mtumilowicz/groovy258-category-mixin-runtime-metaprogramming-workshop.svg?branch=master)](https://travis-ci.com/mtumilowicz/groovy258-category-mixin-runtime-metaprogramming-workshop)
+https://github.com/mtumilowicz/groovy258-category-mixin-runtime-metaprogramming-workshop
+## compile time
 
 # netty
 * **TBA:** netty echo server workshop
