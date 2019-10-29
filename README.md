@@ -10,6 +10,10 @@ All programming workshops prepared and carried out by me.
 * [![Build Status](https://travis-ci.com/mtumilowicz/java12-introduction-to-functional-programming-workshop.svg?branch=master)](https://travis-ci.com/mtumilowicz/java12-introduction-to-functional-programming-workshop)
 https://github.com/mtumilowicz/java12-introduction-to-functional-programming-workshop
 
+# fundamentals
+* [![Build Status](https://travis-ci.com/mtumilowicz/java12-fundamentals-hash-map-implementation.svg?branch=master)](https://travis-ci.com/mtumilowicz/java12-fundamentals-hash-map-implementation)
+https://github.com/mtumilowicz/java12-fundamentals-hash-map-implementation-workshop
+
 # netty
 * **TBA:** netty echo server workshop
 * **TBA:** netty websocket echo server workshop
