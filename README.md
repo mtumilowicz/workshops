@@ -13,7 +13,7 @@ All programming workshops prepared and carried out by me.
 https://github.com/mtumilowicz/java12-introduction-to-functional-programming-workshop
 
 # fundamentals
-* [![Build Status](https://travis-ci.com/mtumilowicz/java12-fundamentals-hash-map-implementation.svg?branch=master)](https://travis-ci.com/mtumilowicz/java12-fundamentals-hash-map-implementation)
+* [![Build Status](https://travis-ci.com/mtumilowicz/java12-fundamentals-hash-map-implementation-workshop.svg?branch=master)](https://travis-ci.com/mtumilowicz/java12-fundamentals-hash-map-implementation-workshop)
 https://github.com/mtumilowicz/java12-fundamentals-hash-map-implementation-workshop
 
 # metaprogramming
