@@ -7,6 +7,8 @@ All programming workshops prepared and carried out by me.
 * **TBA:** most frequent coding interview questions in java
 
 # dsl
+* [![Build Status](https://travis-ci.com/mtumilowicz/groovy258-dsl-closure-workshop.svg?branch=master)](https://travis-ci.com/mtumilowicz/groovy258-dsl-closure-workshop)
+https://github.com/mtumilowicz/groovy258-dsl-closure-workshop
 
 # functional programming
 * [![Build Status](https://travis-ci.com/mtumilowicz/java12-introduction-to-functional-programming-workshop.svg?branch=master)](https://travis-ci.com/mtumilowicz/java12-introduction-to-functional-programming-workshop)
