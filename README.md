@@ -23,6 +23,8 @@ https://github.com/mtumilowicz/java12-fundamentals-hash-map-implementation-works
 * [![Build Status](https://travis-ci.com/mtumilowicz/groovy258-category-mixin-runtime-metaprogramming-workshop.svg?branch=master)](https://travis-ci.com/mtumilowicz/groovy258-category-mixin-runtime-metaprogramming-workshop)
 https://github.com/mtumilowicz/groovy258-category-mixin-runtime-metaprogramming-workshop
 ## compile time
+* [![Build Status](https://travis-ci.com/mtumilowicz/groovy258-ast-compile-time-metaprogramming-workshop.svg?branch=master)](https://travis-ci.com/mtumilowicz/groovy258-ast-compile-time-metaprogramming-workshop)
+https://github.com/mtumilowicz/groovy258-ast-compile-time-metaprogramming-workshop
 
 # netty
 * **TBA:** netty echo server workshop
