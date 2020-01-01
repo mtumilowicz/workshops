@@ -17,6 +17,8 @@ https://github.com/mtumilowicz/java12-introduction-to-functional-programming-wor
 # fundamentals
 * [![Build Status](https://travis-ci.com/mtumilowicz/java12-fundamentals-hash-map-implementation-workshop.svg?branch=master)](https://travis-ci.com/mtumilowicz/java12-fundamentals-hash-map-implementation-workshop)
 https://github.com/mtumilowicz/java12-fundamentals-hash-map-implementation-workshop
+* [![Build Status](https://travis-ci.com/mtumilowicz/java12-fundamentals-collections-corner-cases-workshop.svg?branch=master)](https://travis-ci.com/mtumilowicz/java12-fundamentals-collections-corner-cases-workshop) 
+https://github.com/mtumilowicz/java12-fundamentals-collections-corner-cases-workshop
 
 # metaprogramming
 ## runtime
