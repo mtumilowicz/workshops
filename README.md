@@ -21,6 +21,8 @@ https://github.com/mtumilowicz/java12-fundamentals-hash-map-implementation-works
 https://github.com/mtumilowicz/java12-fundamentals-collections-corner-cases-workshop
 * [![Build Status](https://travis-ci.com/mtumilowicz/java12-fundamentals-off-heap-allocation-workshop.svg?branch=master)](https://travis-ci.com/mtumilowicz/java12-fundamentals-off-heap-allocation-workshop)
 https://github.com/mtumilowicz/java12-fundamentals-off-heap-allocation-workshop
+* [![Build Status](https://travis-ci.com/mtumilowicz/java12-fundamentals-nonblocking-stack-workshop.svg?branch=master)](https://travis-ci.com/mtumilowicz/java12-fundamentals-nonblocking-stack-workshop)
+https://github.com/mtumilowicz/java12-fundamentals-nonblocking-stack-workshop
 
 # metaprogramming
 ## runtime
