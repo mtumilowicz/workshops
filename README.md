@@ -10,6 +10,11 @@ All programming workshops prepared and carried out by me.
 * [![Build Status](https://travis-ci.com/mtumilowicz/groovy258-dsl-closure-workshop.svg?branch=master)](https://travis-ci.com/mtumilowicz/groovy258-dsl-closure-workshop)
 https://github.com/mtumilowicz/groovy258-dsl-closure-workshop
 
+# concurrency
+* [![Build Status](https://travis-ci.com/mtumilowicz/java12-concurrency-singleton-pattern-workshop.svg?branch=master)](https://travis-ci.com/mtumilowicz/java12-concurrency-singleton-pattern-workshop)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+https://github.com/mtumilowicz/java12-concurrency-singleton-pattern-workshop
+
 # functional programming
 * [![Build Status](https://travis-ci.com/mtumilowicz/java12-introduction-to-functional-programming-workshop.svg?branch=master)](https://travis-ci.com/mtumilowicz/java12-introduction-to-functional-programming-workshop)
 https://github.com/mtumilowicz/java12-introduction-to-functional-programming-workshop
