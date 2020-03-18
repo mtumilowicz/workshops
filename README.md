@@ -28,6 +28,10 @@ https://github.com/mtumilowicz/java12-fundamentals-off-heap-allocation-workshop
 * [![Build Status](https://travis-ci.com/mtumilowicz/java12-fundamentals-nonblocking-stack-workshop.svg?branch=master)](https://travis-ci.com/mtumilowicz/java12-fundamentals-nonblocking-stack-workshop)
 https://github.com/mtumilowicz/java12-fundamentals-nonblocking-stack-workshop
 
+# hibernate
+* [![Build Status](https://travis-ci.com/mtumilowicz/java11-hibernate-inheritance-strategies-workshop.svg?branch=master)](https://travis-ci.com/mtumilowicz/java11-hibernate-inheritance-strategies-workshop)
+https://github.com/mtumilowicz/java11-hibernate-inheritance-strategies-workshop
+
 # metaprogramming
 ## runtime
 * [![Build Status](https://travis-ci.com/mtumilowicz/groovy258-category-mixin-runtime-metaprogramming-workshop.svg?branch=master)](https://travis-ci.com/mtumilowicz/groovy258-category-mixin-runtime-metaprogramming-workshop)
