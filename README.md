@@ -71,6 +71,8 @@ https://github.com/mtumilowicz/java11-vavr093-workshops
 # webapp
 * [![Build Status](https://travis-ci.com/mtumilowicz/java13-spring-crud-http-methods-workshop.svg?branch=master)](https://travis-ci.com/mtumilowicz/java13-spring-crud-http-methods-workshop)
 https://github.com/mtumilowicz/java13-spring-crud-http-methods-workshop
+* [![Build Status](https://travis-ci.com/mtumilowicz/java11-architecture-api-layer-workshop.svg?branch=master)](https://travis-ci.com/mtumilowicz/java11-architecture-api-layer-workshop)
+https://github.com/mtumilowicz/java11-architecture-api-layer-workshop
 
 # websockets
 * https://github.com/mtumilowicz/js-nodejs-websocket-workshop
