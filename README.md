@@ -55,7 +55,6 @@ https://github.com/mtumilowicz/java12-introduction-to-reactive-programming-works
 
 ## non-blocking (netty)
 * **TBA:** netty echo server workshop
-* **TBA:** netty websocket echo server workshop
 * **TBA:** netty websocket chat workshop
 
 # vavr
