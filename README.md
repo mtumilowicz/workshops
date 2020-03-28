@@ -40,11 +40,6 @@ https://github.com/mtumilowicz/groovy258-category-mixin-runtime-metaprogramming-
 * [![Build Status](https://travis-ci.com/mtumilowicz/groovy258-ast-compile-time-metaprogramming-workshop.svg?branch=master)](https://travis-ci.com/mtumilowicz/groovy258-ast-compile-time-metaprogramming-workshop)
 https://github.com/mtumilowicz/groovy258-ast-compile-time-metaprogramming-workshop
 
-# netty
-* **TBA:** netty echo server workshop
-* **TBA:** netty websocket echo server workshop
-* **TBA:** netty websocket chat workshop
-
 # reactive programming
 * [![Build Status](https://travis-ci.com/mtumilowicz/java12-introduction-to-reactive-programming-workshop.svg?branch=master)](https://travis-ci.com/mtumilowicz/java12-introduction-to-reactive-programming-workshop)
 https://github.com/mtumilowicz/java12-introduction-to-reactive-programming-workshop
@@ -54,9 +49,14 @@ https://github.com/mtumilowicz/java12-introduction-to-reactive-programming-works
 * [![Build Status](https://travis-ci.com/mtumilowicz/java12-io-socket-client-server-workshop.svg?branch=master)](https://travis-ci.com/mtumilowicz/java12-io-socket-client-server-workshop) https://github.com/mtumilowicz/java12-io-socket-client-server-workshop
 * [![Build Status](https://travis-ci.com/mtumilowicz/java12-nio-blocking-client-server-workshop.svg?branch=master)](https://travis-ci.com/mtumilowicz/java12-nio-blocking-client-server-workshop) https://github.com/mtumilowicz/java12-nio-blocking-client-server-workshop
 
-## non-blocking
+## non-blocking (nio)
 * [![Build Status](https://travis-ci.com/mtumilowicz/java12-nio-non-blocking-polling-server-workshop.svg?branch=master)](https://travis-ci.com/mtumilowicz/java12-nio-non-blocking-polling-server-workshop) https://github.com/mtumilowicz/java12-nio-non-blocking-polling-server-workshop
 * [![Build Status](https://travis-ci.com/mtumilowicz/java12-nio-non-blocking-selector-server-workshop.svg?branch=master)](https://travis-ci.com/mtumilowicz/java12-nio-non-blocking-selector-server-workshop) https://github.com/mtumilowicz/java12-nio-non-blocking-selector-server-workshop
+
+## non-blocking (netty)
+* **TBA:** netty echo server workshop
+* **TBA:** netty websocket echo server workshop
+* **TBA:** netty websocket chat workshop
 
 # vavr
 * [![Build Status](https://travis-ci.com/mtumilowicz/java11-vavr093-workshops.svg?branch=master)](https://travis-ci.com/mtumilowicz/java11-vavr093-workshops)
