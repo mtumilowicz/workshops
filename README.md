@@ -14,6 +14,10 @@ https://github.com/mtumilowicz/java12-concurrency-singleton-pattern-workshop
 * [![Build Status](https://travis-ci.com/mtumilowicz/groovy258-dsl-closure-workshop.svg?branch=master)](https://travis-ci.com/mtumilowicz/groovy258-dsl-closure-workshop)
 https://github.com/mtumilowicz/groovy258-dsl-closure-workshop
 
+# elasticsearch
+* [![Build Status](https://travis-ci.com/mtumilowicz/java12-elasticsearch-inverted-index-workshop.svg?branch=master)](https://travis-ci.com/mtumilowicz/java12-elasticsearch-inverted-index-workshop)
+https://github.com/mtumilowicz/java12-elasticsearch-inverted-index-workshop
+
 # functional programming
 * [![Build Status](https://travis-ci.com/mtumilowicz/java12-introduction-to-functional-programming-workshop.svg?branch=master)](https://travis-ci.com/mtumilowicz/java12-introduction-to-functional-programming-workshop)
 https://github.com/mtumilowicz/java12-introduction-to-functional-programming-workshop
