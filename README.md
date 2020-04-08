@@ -33,6 +33,8 @@ https://github.com/mtumilowicz/java12-fundamentals-off-heap-allocation-workshop
 https://github.com/mtumilowicz/java12-fundamentals-nonblocking-stack-workshop
 * [![Build Status](https://travis-ci.com/mtumilowicz/java12-fundamentals-cache-implementations-workshop.svg?branch=master)](https://travis-ci.com/mtumilowicz/java12-fundamentals-cache-implementations-workshop)
 https://github.com/mtumilowicz/java12-fundamentals-cache-implementations-workshop
+* [![Build Status](https://travis-ci.com/mtumilowicz/java12-fundamentals-tail-recursion-workshop.svg?branch=master)](https://travis-ci.com/mtumilowicz/java12-fundamentals-tail-recursion-workshop)
+https://github.com/mtumilowicz/java12-fundamentals-tail-recursion-workshop
 
 # hibernate
 * [![Build Status](https://travis-ci.com/mtumilowicz/java11-hibernate-inheritance-strategies-workshop.svg?branch=master)](https://travis-ci.com/mtumilowicz/java11-hibernate-inheritance-strategies-workshop)
