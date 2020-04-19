@@ -13,6 +13,8 @@ https://github.com/mtumilowicz/java12-concurrency-singleton-pattern-workshop
 # dsl
 * [![Build Status](https://travis-ci.com/mtumilowicz/groovy258-dsl-closure-workshop.svg?branch=master)](https://travis-ci.com/mtumilowicz/groovy258-dsl-closure-workshop)
 https://github.com/mtumilowicz/groovy258-dsl-closure-workshop
+* [![Build Status](https://travis-ci.com/mtumilowicz/kotlin-dsl-lambda-workshop.svg?branch=master)](https://travis-ci.com/mtumilowicz/kotlin-dsl-lambda-workshop)
+https://github.com/mtumilowicz/kotlin-dsl-lambda-workshop
 
 # elasticsearch
 * [![Build Status](https://travis-ci.com/mtumilowicz/java12-elasticsearch-inverted-index-workshop.svg?branch=master)](https://travis-ci.com/mtumilowicz/java12-elasticsearch-inverted-index-workshop)
