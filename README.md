@@ -42,6 +42,10 @@ https://github.com/mtumilowicz/java12-fundamentals-tail-recursion-workshop
 * [![Build Status](https://travis-ci.com/mtumilowicz/java11-hibernate-inheritance-strategies-workshop.svg?branch=master)](https://travis-ci.com/mtumilowicz/java11-hibernate-inheritance-strategies-workshop)
 https://github.com/mtumilowicz/java11-hibernate-inheritance-strategies-workshop
 
+# DI containers
+* [![Build Status](https://travis-ci.com/mtumilowicz/kotlin-DI-spring-batch-workshop.svg?branch=master)](https://travis-ci.com/mtumilowicz/kotlin-DI-spring-batch-workshop)
+https://github.com/mtumilowicz/kotlin-DI-spring-batch-workshop
+
 # metaprogramming
 ## runtime
 * [![Build Status](https://travis-ci.com/mtumilowicz/groovy258-category-mixin-runtime-metaprogramming-workshop.svg?branch=master)](https://travis-ci.com/mtumilowicz/groovy258-category-mixin-runtime-metaprogramming-workshop)
