@@ -19,7 +19,7 @@ https://github.com/mtumilowicz/kotlin-dsl-lambda-workshop
 # elasticsearch
 * [![Build Status](https://travis-ci.com/mtumilowicz/java12-elasticsearch-inverted-index-workshop.svg?branch=master)](https://travis-ci.com/mtumilowicz/java12-elasticsearch-inverted-index-workshop)
 https://github.com/mtumilowicz/java12-elasticsearch-inverted-index-workshop
-* https://github.com/mtumilowicz/elasticsearch-query-filter-aggregation-workshop
+* https://github.com/mtumilowicz/elasticsearch7-query-filter-aggregation-workshop
 
 # functional programming
 * [![Build Status](https://travis-ci.com/mtumilowicz/java12-introduction-to-functional-programming-workshop.svg?branch=master)](https://travis-ci.com/mtumilowicz/java12-introduction-to-functional-programming-workshop)
