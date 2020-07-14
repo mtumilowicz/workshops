@@ -26,6 +26,8 @@ https://github.com/mtumilowicz/java12-elasticsearch-inverted-index-workshop
 # functional programming
 * [![Build Status](https://travis-ci.com/mtumilowicz/java12-introduction-to-functional-programming-workshop.svg?branch=master)](https://travis-ci.com/mtumilowicz/java12-introduction-to-functional-programming-workshop)
 https://github.com/mtumilowicz/java12-introduction-to-functional-programming-workshop
+* [![Build Status](https://travis-ci.com/mtumilowicz/scala213-functional-programming-collections-workshop.svg?branch=master)](https://travis-ci.com/mtumilowicz/scala213-functional-programming-collections-workshop)
+https://github.com/mtumilowicz/scala213-functional-programming-collections-workshop
 
 # fundamentals
 * [![Build Status](https://travis-ci.com/mtumilowicz/java12-fundamentals-hash-map-implementation-workshop.svg?branch=master)](https://travis-ci.com/mtumilowicz/java12-fundamentals-hash-map-implementation-workshop)
