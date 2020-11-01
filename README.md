@@ -3,6 +3,10 @@
 # workshops
 All programming workshops prepared and carried out by me.
 
+# akka
+* [![Build Status](https://travis-ci.com/mtumilowicz/scala-akka-http-actor-workshop.svg?branch=master)](https://travis-ci.com/mtumilowicz/scala-akka-http-actor-workshop)
+https://github.com/mtumilowicz/scala-akka-http-actor-workshop
+
 # algorithms
 * **TBA:** most frequent coding interview questions in java
 
