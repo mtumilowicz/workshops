@@ -15,8 +15,8 @@ https://github.com/mtumilowicz/scala-akka-http-actor-workshop
 https://github.com/mtumilowicz/java12-concurrency-singleton-pattern-workshop
 
 # design patterns
-[![Build Status](https://travis-ci.com/mtumilowicz/java15-functional-design-patterns-workshop.svg?branch=master)](https://travis-ci.com/mtumilowicz/java15-functional-design-patterns-workshop)
-https://github.com/mtumilowicz/java15-functional-design-patterns-workshop
+[![Build Status](https://travis-ci.com/mtumilowicz/java15-design-patterns-made-functional-workshop.svg?branch=master)](https://travis-ci.com/mtumilowicz/java15-design-patterns-made-functional-workshop)
+https://github.com/mtumilowicz/java15-design-patterns-made-functional-workshop
 
 # dsl
 * [![Build Status](https://travis-ci.com/mtumilowicz/groovy258-dsl-closure-workshop.svg?branch=master)](https://travis-ci.com/mtumilowicz/groovy258-dsl-closure-workshop)
