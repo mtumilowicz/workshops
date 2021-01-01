@@ -10,6 +10,10 @@ https://github.com/mtumilowicz/scala-akka-http-actor-workshop
 # algorithms
 * **TBA:** most frequent coding interview questions in java
 
+# big data
+* [![Build Status](https://travis-ci.com/mtumilowicz/big-data-scala-spark-batch-workshop.svg?branch=master)](https://travis-ci.com/mtumilowicz/big-data-scala-spark-batch-workshop)
+https://github.com/mtumilowicz/big-data-scala-spark-batch-workshop
+
 # concurrency
 * [![Build Status](https://travis-ci.com/mtumilowicz/java12-concurrency-singleton-pattern-workshop.svg?branch=master)](https://travis-ci.com/mtumilowicz/java12-concurrency-singleton-pattern-workshop)
 https://github.com/mtumilowicz/java12-concurrency-singleton-pattern-workshop
