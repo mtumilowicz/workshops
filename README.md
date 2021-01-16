@@ -22,6 +22,10 @@ https://github.com/mtumilowicz/java12-concurrency-singleton-pattern-workshop
 * [![Build Status](https://travis-ci.com/mtumilowicz/java15-design-patterns-made-functional-workshop.svg?branch=master)](https://travis-ci.com/mtumilowicz/java15-design-patterns-made-functional-workshop)
 https://github.com/mtumilowicz/java15-design-patterns-made-functional-workshop
 
+# DI containers
+* [![Build Status](https://travis-ci.com/mtumilowicz/kotlin-DI-spring-batch-workshop.svg?branch=master)](https://travis-ci.com/mtumilowicz/kotlin-DI-spring-batch-workshop)
+https://github.com/mtumilowicz/kotlin-DI-spring-batch-workshop
+
 # dsl
 * [![Build Status](https://travis-ci.com/mtumilowicz/groovy258-dsl-closure-workshop.svg?branch=master)](https://travis-ci.com/mtumilowicz/groovy258-dsl-closure-workshop)
 https://github.com/mtumilowicz/groovy258-dsl-closure-workshop
@@ -63,10 +67,6 @@ https://github.com/mtumilowicz/java12-fundamentals-tail-recursion-workshop
 * [![Build Status](https://travis-ci.com/mtumilowicz/java11-hibernate-inheritance-strategies-workshop.svg?branch=master)](https://travis-ci.com/mtumilowicz/java11-hibernate-inheritance-strategies-workshop)
 https://github.com/mtumilowicz/java11-hibernate-inheritance-strategies-workshop
 
-# DI containers
-* [![Build Status](https://travis-ci.com/mtumilowicz/kotlin-DI-spring-batch-workshop.svg?branch=master)](https://travis-ci.com/mtumilowicz/kotlin-DI-spring-batch-workshop)
-https://github.com/mtumilowicz/kotlin-DI-spring-batch-workshop
-
 # metaprogramming
 ## runtime
 * [![Build Status](https://travis-ci.com/mtumilowicz/groovy258-category-mixin-runtime-metaprogramming-workshop.svg?branch=master)](https://travis-ci.com/mtumilowicz/groovy258-category-mixin-runtime-metaprogramming-workshop)
@@ -106,6 +106,7 @@ https://github.com/mtumilowicz/java11-vavr093-workshops
 https://github.com/mtumilowicz/java13-spring-crud-http-methods-workshop
 * [![Build Status](https://travis-ci.com/mtumilowicz/java11-architecture-api-layer-workshop.svg?branch=master)](https://travis-ci.com/mtumilowicz/java11-architecture-api-layer-workshop)
 https://github.com/mtumilowicz/java11-architecture-api-layer-workshop
+* https://github.com/mtumilowicz/spring-boot-webapp-docker-workshop
 
 # websockets
 * https://github.com/mtumilowicz/js-nodejs-websocket-workshop
