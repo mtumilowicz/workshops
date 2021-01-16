@@ -79,6 +79,9 @@ https://github.com/mtumilowicz/groovy258-ast-compile-time-metaprogramming-worksh
 * [![Build Status](https://travis-ci.com/mtumilowicz/java12-introduction-to-reactive-programming-workshop.svg?branch=master)](https://travis-ci.com/mtumilowicz/java12-introduction-to-reactive-programming-workshop)
 https://github.com/mtumilowicz/java12-introduction-to-reactive-programming-workshop
 
+# scala
+* [![Build Status](https://travis-ci.com/mtumilowicz/scala-cats-implicit-workshop.svg?branch=master)](https://travis-ci.com/mtumilowicz/scala-cats-implicit-workshop) https://github.com/mtumilowicz/scala-cats-implicit-workshop
+
 # server
 ## blocking
 * [![Build Status](https://travis-ci.com/mtumilowicz/java12-io-socket-client-server-workshop.svg?branch=master)](https://travis-ci.com/mtumilowicz/java12-io-socket-client-server-workshop) https://github.com/mtumilowicz/java12-io-socket-client-server-workshop
