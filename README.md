@@ -8,7 +8,8 @@ All programming workshops prepared and carried out by me.
 https://github.com/mtumilowicz/scala-akka-http-actor-workshop
 
 # algorithms
-* **TBA:** most frequent coding interview questions in java
+* [![Build Status](https://travis-ci.com/mtumilowicz/scala-algorithms-bfs-dfs-astar-workshop.svg?branch=master)](https://travis-ci.com/mtumilowicz/scala-algorithms-bfs-dfs-astar-workshop)
+https://github.com/mtumilowicz/scala-algorithms-bfs-dfs-astar-workshop
 
 # big data
 * [![Build Status](https://travis-ci.com/mtumilowicz/big-data-scala-spark-batch-workshop.svg?branch=master)](https://travis-ci.com/mtumilowicz/big-data-scala-spark-batch-workshop)
