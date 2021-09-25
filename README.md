@@ -23,6 +23,9 @@ https://github.com/mtumilowicz/java12-concurrency-singleton-pattern-workshop
 * [![Build Status](https://travis-ci.com/mtumilowicz/java15-design-patterns-made-functional-workshop.svg?branch=master)](https://travis-ci.com/mtumilowicz/java15-design-patterns-made-functional-workshop)
 https://github.com/mtumilowicz/java15-design-patterns-made-functional-workshop
 
+# devops
+* https://github.com/mtumilowicz/terraform-workshop
+
 # DI containers
 * [![Build Status](https://travis-ci.com/mtumilowicz/kotlin-DI-spring-batch-workshop.svg?branch=master)](https://travis-ci.com/mtumilowicz/kotlin-DI-spring-batch-workshop)
 https://github.com/mtumilowicz/kotlin-DI-spring-batch-workshop
