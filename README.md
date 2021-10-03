@@ -24,6 +24,7 @@ https://github.com/mtumilowicz/java12-concurrency-singleton-pattern-workshop
 https://github.com/mtumilowicz/java15-design-patterns-made-functional-workshop
 
 # devops
+* https://github.com/mtumilowicz/helm-workshop
 * https://github.com/mtumilowicz/terraform-workshop
 
 # DI containers
