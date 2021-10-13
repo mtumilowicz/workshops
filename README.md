@@ -26,7 +26,7 @@ https://github.com/mtumilowicz/java15-design-patterns-made-functional-workshop
 # devops
 * https://github.com/mtumilowicz/helm-workshop
 * https://github.com/mtumilowicz/terraform-basics-modules-workshop
-* https://github.com/mtumilowicz/terraform-workshop
+* https://github.com/mtumilowicz/terraform-remotebackend-workspaces-aws-workshop
 
 # DI containers
 * [![Build Status](https://travis-ci.com/mtumilowicz/kotlin-DI-spring-batch-workshop.svg?branch=master)](https://travis-ci.com/mtumilowicz/kotlin-DI-spring-batch-workshop)
