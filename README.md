@@ -25,6 +25,7 @@ https://github.com/mtumilowicz/java15-design-patterns-made-functional-workshop
 
 # devops
 * https://github.com/mtumilowicz/helm-workshop
+* https://github.com/mtumilowicz/linux-terminal-bash-workshop
 * https://github.com/mtumilowicz/terraform-basics-modules-workshop
 * https://github.com/mtumilowicz/terraform-remotebackend-workspaces-aws-workshop
 
