@@ -4,8 +4,8 @@
 All programming workshops prepared and carried out by me.
 
 # akka
-* [![Build Status](https://travis-ci.com/mtumilowicz/scala-akka-http-actor-workshop.svg?branch=master)](https://travis-ci.com/mtumilowicz/scala-akka-http-actor-workshop)
-https://github.com/mtumilowicz/scala-akka-http-actor-workshop
+* [![Build Status](https://travis-ci.com/mtumilowicz/scala-akka-http-actor-workshop.svg?branch=master)](https://travis-ci.com/mtumilowicz/scala-akka-actor-workshop)
+https://github.com/mtumilowicz/scala-akka-http-workshop
 
 # algorithms
 * [![Build Status](https://travis-ci.com/mtumilowicz/scala-algorithms-bfs-dfs-astar-workshop.svg?branch=master)](https://travis-ci.com/mtumilowicz/scala-algorithms-bfs-dfs-astar-workshop)
