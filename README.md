@@ -4,6 +4,8 @@
 All programming workshops prepared and carried out by me.
 
 # akka
+* [![Build Status](https://app.travis-ci.com/mtumilowicz/scala-akka-actor-workshop.svg?branch=master)](https://app.travis-ci.com/mtumilowicz/scala-akka-actor-workshop)
+https://github.com/mtumilowicz/scala-akka-actor-workshop
 * [![Build Status](https://travis-ci.com/mtumilowicz/scala-akka-http-workshop.svg?branch=master)](https://travis-ci.com/mtumilowicz/scala-akka-actor-workshop)
 https://github.com/mtumilowicz/scala-akka-http-workshop
 
