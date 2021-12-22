@@ -72,6 +72,10 @@ https://github.com/mtumilowicz/java12-fundamentals-cache-implementations-worksho
 * [![Build Status](https://travis-ci.com/mtumilowicz/java12-fundamentals-tail-recursion-workshop.svg?branch=master)](https://travis-ci.com/mtumilowicz/java12-fundamentals-tail-recursion-workshop)
 https://github.com/mtumilowicz/java12-fundamentals-tail-recursion-workshop
 
+# graphQl
+* [![Build Status](https://travis-ci.com/mtumilowicz/scala-akka-http-actor-workshop.svg?branch=master)](https://travis-ci.com/mtumilowicz/scala-akka-http-actor-workshop)
+https://github.com/mtumilowicz/scala-graphql-caliban-workshop
+
 # hibernate
 * [![Build Status](https://travis-ci.com/mtumilowicz/java11-hibernate-inheritance-strategies-workshop.svg?branch=master)](https://travis-ci.com/mtumilowicz/java11-hibernate-inheritance-strategies-workshop)
 https://github.com/mtumilowicz/java11-hibernate-inheritance-strategies-workshop
