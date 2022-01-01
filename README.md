@@ -122,6 +122,8 @@ https://github.com/mtumilowicz/java11-vavr093-workshops
 https://github.com/mtumilowicz/java13-spring-crud-http-methods-workshop
 * [![Build Status](https://travis-ci.com/mtumilowicz/java11-architecture-api-layer-workshop.svg?branch=master)](https://travis-ci.com/mtumilowicz/java11-architecture-api-layer-workshop)
 https://github.com/mtumilowicz/java11-architecture-api-layer-workshop
+* [![Build Status](https://app.travis-ci.com/mtumilowicz/scala-http4s-zio-fs2-workshop.svg?branch=master)](https://app.travis-ci.com/mtumilowicz/scala-http4s-zio-fs2-workshop)
+https://github.com/mtumilowicz/scala-http4s-zio-fs2-doobie-workshop
 * https://github.com/mtumilowicz/spring-boot-webapp-docker-workshop
 
 # websockets
