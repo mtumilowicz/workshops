@@ -31,9 +31,11 @@ https://github.com/mtumilowicz/java15-design-patterns-made-functional-workshop
 * https://github.com/mtumilowicz/terraform-basics-modules-workshop
 * https://github.com/mtumilowicz/terraform-remotebackend-workspaces-aws-workshop
 
-# DI containers
+# dependency injection
 * [![Build Status](https://travis-ci.com/mtumilowicz/kotlin-DI-spring-batch-workshop.svg?branch=master)](https://travis-ci.com/mtumilowicz/kotlin-DI-spring-batch-workshop)
 https://github.com/mtumilowicz/kotlin-DI-spring-batch-workshop
+* [![Build Status](https://app.travis-ci.com/mtumilowicz/scala-cats-functional-dependency-injection-workshop.svg?branch=master)](https://app.travis-ci.com/mtumilowicz/scala-cats-functional-dependency-injection-workshop)
+https://github.com/mtumilowicz/scala-cats-functional-dependency-injection-workshop
 
 # dsl
 * [![Build Status](https://travis-ci.com/mtumilowicz/groovy258-dsl-closure-workshop.svg?branch=master)](https://travis-ci.com/mtumilowicz/groovy258-dsl-closure-workshop)
