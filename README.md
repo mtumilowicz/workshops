@@ -59,7 +59,7 @@ https://github.com/mtumilowicz/scala213-functional-programming-collections-works
 https://github.com/mtumilowicz/kotlin-functional-programming-actors-workshop
 * [![Build Status](https://travis-ci.com/mtumilowicz/scala213-functional-programming-functor-monoid-monad-workshop.svg?branch=master)](https://travis-ci.com/mtumilowicz/scala213-functional-programming-functor-monoid-monad-workshop)
 https://github.com/mtumilowicz/scala213-functional-programming-functor-monoid-monad-workshop
-* [![Build Status](https://app.travis-ci.com/mtumilowicz/scala-http4s-middleware-workshop.svg?branch=master)](https://app.travis-ci.com/mtumilowicz/scala-http4s-middleware-workshop)
+* [![Build Status](https://app.travis-ci.com/mtumilowicz/scala-cats-tagless-final-http4s-middleware-workshop.svg?branch=master)](https://app.travis-ci.com/mtumilowicz/scala-cats-tagless-final-http4s-middleware-workshop)
 https://github.com/mtumilowicz/scala-cats-tagless-final-http4s-middleware-workshop
 
 # fundamentals
