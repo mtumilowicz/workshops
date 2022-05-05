@@ -61,6 +61,8 @@ https://github.com/mtumilowicz/kotlin-functional-programming-actors-workshop
 https://github.com/mtumilowicz/scala213-functional-programming-functor-monoid-monad-workshop
 * [![Build Status](https://app.travis-ci.com/mtumilowicz/scala-cats-tagless-final-http4s-middleware-workshop.svg?branch=master)](https://app.travis-ci.com/mtumilowicz/scala-cats-tagless-final-http4s-middleware-workshop)
 https://github.com/mtumilowicz/scala-cats-tagless-final-http4s-middleware-workshop
+* [![Build Status](https://app.travis-ci.com/mtumilowicz/scala-zio2-fs2-refined-newtype-workshop.svg?branch=master)](https://app.travis-ci.com/mtumilowicz/scala-zio2-fs2-refined-newtype-workshop)
+https://github.com/mtumilowicz/scala-zio2-fs2-refined-newtype-workshop
 
 # fundamentals
 * [![Build Status](https://travis-ci.com/mtumilowicz/java12-fundamentals-hash-map-implementation-workshop.svg?branch=master)](https://travis-ci.com/mtumilowicz/java12-fundamentals-hash-map-implementation-workshop)
