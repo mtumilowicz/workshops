@@ -20,6 +20,8 @@ https://github.com/mtumilowicz/big-data-scala-spark-batch-workshop
 # concurrency
 * [![Build Status](https://travis-ci.com/mtumilowicz/java12-concurrency-singleton-pattern-workshop.svg?branch=master)](https://travis-ci.com/mtumilowicz/java12-concurrency-singleton-pattern-workshop)
 https://github.com/mtumilowicz/java12-concurrency-singleton-pattern-workshop
+* [![Build Status](https://app.travis-ci.com/mtumilowicz/clojure-concurrency-stm-workshop.svg?branch=master)](https://app.travis-ci.com/mtumilowicz/clojure-concurrency-stm-workshop)
+https://github.com/mtumilowicz/clojure-concurrency-stm-workshop
 
 # design patterns
 * [![Build Status](https://travis-ci.com/mtumilowicz/java15-design-patterns-made-functional-workshop.svg?branch=master)](https://travis-ci.com/mtumilowicz/java15-design-patterns-made-functional-workshop)
