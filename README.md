@@ -133,6 +133,8 @@ https://github.com/mtumilowicz/java13-spring-crud-http-methods-workshop
 https://github.com/mtumilowicz/java11-architecture-api-layer-workshop
 * [![Build Status](https://app.travis-ci.com/mtumilowicz/scala-http4s-zio-doobie-workshop.svg?branch=master)](https://app.travis-ci.com/mtumilowicz/scala-http4s-zio-doobie-workshop)
 https://github.com/mtumilowicz/scala-http4s-zio-doobie-workshop
+* [![Build Status](https://app.travis-ci.com/mtumilowicz/clojure-ring-reitit-h2-workshop.svg?branch=master)](https://app.travis-ci.com/mtumilowicz/clojure-ring-reitit-h2-workshop) 
+https://github.com/mtumilowicz/clojure-ring-reitit-h2-workshop
 * https://github.com/mtumilowicz/spring-boot-webapp-docker-workshop
 
 # websockets
