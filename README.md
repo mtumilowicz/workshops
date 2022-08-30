@@ -23,6 +23,10 @@ https://github.com/mtumilowicz/java12-concurrency-singleton-pattern-workshop
 * [![Build Status](https://app.travis-ci.com/mtumilowicz/clojure-concurrency-stm-workshop.svg?branch=master)](https://app.travis-ci.com/mtumilowicz/clojure-concurrency-stm-workshop)
 https://github.com/mtumilowicz/clojure-concurrency-stm-workshop
 
+# cryptography
+* [![Build Status](https://app.travis-ci.com/mtumilowicz/cryptography-rsa-workshop.svg?branch=master)](https://app.travis-ci.com/mtumilowicz/cryptography-rsa-workshop)
+https://github.com/mtumilowicz/cryptography-rsa-workshop
+
 # design patterns
 * [![Build Status](https://travis-ci.com/mtumilowicz/java15-design-patterns-made-functional-workshop.svg?branch=master)](https://travis-ci.com/mtumilowicz/java15-design-patterns-made-functional-workshop)
 https://github.com/mtumilowicz/java15-design-patterns-made-functional-workshop
