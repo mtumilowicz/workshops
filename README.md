@@ -26,6 +26,8 @@ https://github.com/mtumilowicz/clojure-concurrency-stm-workshop
 # cryptography
 * [![Build Status](https://app.travis-ci.com/mtumilowicz/cryptography-rsa-workshop.svg?branch=master)](https://app.travis-ci.com/mtumilowicz/cryptography-rsa-workshop)
 https://github.com/mtumilowicz/cryptography-rsa-workshop
+* [![Build Status](https://app.travis-ci.com/mtumilowicz/cryptography-hsm-workshop.svg?branch=master)](https://app.travis-ci.com/mtumilowicz/cryptography-hsm-workshop)
+https://github.com/mtumilowicz/cryptography-hsm-workshop
 
 # design patterns
 * [![Build Status](https://travis-ci.com/mtumilowicz/java15-design-patterns-made-functional-workshop.svg?branch=master)](https://travis-ci.com/mtumilowicz/java15-design-patterns-made-functional-workshop)
