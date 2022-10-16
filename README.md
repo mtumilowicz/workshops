@@ -75,7 +75,10 @@ https://github.com/mtumilowicz/scala213-functional-programming-functor-monoid-mo
 https://github.com/mtumilowicz/scala-cats-tagless-final-http4s-middleware-workshop
 * [![Build Status](https://app.travis-ci.com/mtumilowicz/scala-zio2-fs2-refined-newtype-workshop.svg?branch=master)](https://app.travis-ci.com/mtumilowicz/scala-zio2-fs2-refined-newtype-workshop)
 https://github.com/mtumilowicz/scala-zio2-fs2-refined-newtype-workshop
-* [![Build Status](https://app.travis-ci.com/mtumilowicz/scala-cats-free-monad-workshop.svg?branch=master)](https://app.travis-ci.com/mtumilowicz/scala-cats-free-monad-workshop) https://github.com/mtumilowicz/scala-cats-free-monad-workshop
+* [![Build Status](https://app.travis-ci.com/mtumilowicz/scala-zio2-zstream-workshop.svg?branch=master)](https://app.travis-ci.com/mtumilowicz/scala-zio2-zstream-workshop)
+https://github.com/mtumilowicz/scala-zio2-zstream-workshop
+* [![Build Status](https://app.travis-ci.com/mtumilowicz/scala-cats-free-monad-workshop.svg?branch=master)](https://app.travis-ci.com/mtumilowicz/scala-cats-free-monad-workshop) 
+https://github.com/mtumilowicz/scala-cats-free-monad-workshop
 
 # fundamentals
 * [![Build Status](https://travis-ci.com/mtumilowicz/java12-fundamentals-hash-map-implementation-workshop.svg?branch=master)](https://travis-ci.com/mtumilowicz/java12-fundamentals-hash-map-implementation-workshop)
