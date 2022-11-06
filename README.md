@@ -129,6 +129,10 @@ https://github.com/mtumilowicz/java12-introduction-to-reactive-programming-works
 ## non-blocking (netty)
 * [![Build Status](https://travis-ci.com/mtumilowicz/java11-netty-non-blocking-server-workshop.svg?branch=master)](https://travis-ci.com/mtumilowicz/java11-netty-non-blocking-server-workshop) https://github.com/mtumilowicz/java11-netty-non-blocking-server-workshop
 
+# testing
+* [![Build Status](https://app.travis-ci.com/mtumilowicz/scala-zio2-test-aspects-property-based-testing-workshop.svg?branch=master)](https://app.travis-ci.com/mtumilowicz/scala-zio2-test-aspects-property-based-testing-workshop)
+https://github.com/mtumilowicz/scala-zio2-test-aspects-property-based-testing-workshop
+
 # vavr
 * [![Build Status](https://travis-ci.com/mtumilowicz/java11-vavr093-workshops.svg?branch=master)](https://travis-ci.com/mtumilowicz/java11-vavr093-workshops)
 https://github.com/mtumilowicz/java11-vavr093-workshops
