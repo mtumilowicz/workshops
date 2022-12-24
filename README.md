@@ -28,6 +28,8 @@ https://github.com/mtumilowicz/clojure-concurrency-stm-workshop
 https://github.com/mtumilowicz/cryptography-rsa-workshop
 * [![Build Status](https://app.travis-ci.com/mtumilowicz/cryptography-hsm-workshop.svg?branch=master)](https://app.travis-ci.com/mtumilowicz/cryptography-hsm-workshop)
 https://github.com/mtumilowicz/cryptography-hsm-workshop
+* [![Build Status](https://app.travis-ci.com/mtumilowicz/scala-zio2-test-aspects-property-based-testing-workshop.svg?branch=master)](https://app.travis-ci.com/mtumilowicz/scala-zio2-test-aspects-property-based-testing-workshop)
+https://github.com/mtumilowicz/elliptic-curve-workshop
 
 # cryptocurrency
 * [![Build Status](https://app.travis-ci.com/mtumilowicz/bitcoin-address-workshop.svg?branch=master)](https://app.travis-ci.com/mtumilowicz/bitcoin-address-workshop) 
