@@ -97,6 +97,9 @@ https://github.com/mtumilowicz/java12-fundamentals-nonblocking-stack-workshop
 https://github.com/mtumilowicz/java12-fundamentals-cache-implementations-workshop
 * [![Build Status](https://travis-ci.com/mtumilowicz/java12-fundamentals-tail-recursion-workshop.svg?branch=master)](https://travis-ci.com/mtumilowicz/java12-fundamentals-tail-recursion-workshop)
 https://github.com/mtumilowicz/java12-fundamentals-tail-recursion-workshop
+* [![Build Status](https://app.travis-ci.com/mtumilowicz/elliptic-curve-workshop.svg?branch=master)](https://app.travis-ci.com/mtumilowicz/elliptic-curve-workshop)
+https://github.com/mtumilowicz/zio2-fiber-workshop
+
 
 # graphQl
 * [![Build Status](https://app.travis-ci.com/mtumilowicz/scala-graphql-caliban-workshop.svg?branch=master)](https://app.travis-ci.com/mtumilowicz/scala-graphql-caliban-workshop)
