@@ -124,6 +124,7 @@ https://github.com/mtumilowicz/java12-introduction-to-reactive-programming-works
 # scala
 * [![Build Status](https://travis-ci.com/mtumilowicz/scala-cats-implicit-workshop.svg?branch=master)](https://travis-ci.com/mtumilowicz/scala-cats-implicit-workshop) https://github.com/mtumilowicz/scala-cats-implicit-workshop
 * [![Build Status](https://app.travis-ci.com/mtumilowicz/scala-zio2-scopt-workshop.svg?branch=master)](https://app.travis-ci.com/mtumilowicz/scala-zio2-scopt-workshop) https://github.com/mtumilowicz/scala-zio2-scopt-workshop
+* [![Build Status](https://app.travis-ci.com/mtumilowicz/scala-zio2-partially-applied-types-workshop.svg?branch=master)](https://app.travis-ci.com/mtumilowicz/scala-zio2-partially-applied-types-workshop) https://github.com/mtumilowicz/scala-zio2-partially-applied-types-workshop
 
 # server
 ## blocking
