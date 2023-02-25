@@ -141,7 +141,7 @@ https://github.com/mtumilowicz/java12-introduction-to-reactive-programming-works
 # testing
 * [![Build Status](https://app.travis-ci.com/mtumilowicz/scala-zio2-test-aspects-property-based-testing-workshop.svg?branch=master)](https://app.travis-ci.com/mtumilowicz/scala-zio2-test-aspects-property-based-testing-workshop)
 https://github.com/mtumilowicz/scala-zio2-test-aspects-property-based-testing-workshop
-* [![Build Status](https://app.travis-ci.com/mtumilowicz/scala-zio2-test-sharing-resources-testcontainers-workshop.svg?branch=main)](https://app.travis-ci.com/mtumilowicz/scala-zio2-test-sharing-resources-testcontainers-workshop)
+* [![Build Status](https://app.travis-ci.com/mtumilowicz/scala-zio2-test-sharing-resources-testcontainers-workshop.svg?branch=master)](https://app.travis-ci.com/mtumilowicz/scala-zio2-test-sharing-resources-testcontainers-workshop)
 https://github.com/mtumilowicz/scala-zio2-test-sharing-resources-testcontainers-workshop
 
 # vavr
