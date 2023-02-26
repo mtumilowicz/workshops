@@ -100,10 +100,13 @@ https://github.com/mtumilowicz/java12-fundamentals-tail-recursion-workshop
 * [![Build Status](https://app.travis-ci.com/mtumilowicz/elliptic-curve-workshop.svg?branch=master)](https://app.travis-ci.com/mtumilowicz/elliptic-curve-workshop)
 https://github.com/mtumilowicz/zio2-fiber-workshop
 
-
 # graphQl
 * [![Build Status](https://app.travis-ci.com/mtumilowicz/scala-graphql-caliban-workshop.svg?branch=master)](https://app.travis-ci.com/mtumilowicz/scala-graphql-caliban-workshop)
 https://github.com/mtumilowicz/scala-graphql-caliban-workshop
+
+# gRPC
+* [![Build Status](https://app.travis-ci.com/mtumilowicz/scala-zio2-grpc-workshop.svg?branch=master)](https://app.travis-ci.com/mtumilowicz/scala-zio2-grpc-workshop)
+https://github.com/mtumilowicz/scala-zio2-grpc-workshop
 
 # hibernate
 * [![Build Status](https://travis-ci.com/mtumilowicz/java11-hibernate-inheritance-strategies-workshop.svg?branch=master)](https://travis-ci.com/mtumilowicz/java11-hibernate-inheritance-strategies-workshop)
