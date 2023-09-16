@@ -18,6 +18,11 @@ https://github.com/mtumilowicz/scala-algorithms-bfs-dfs-astar-workshop
 https://github.com/mtumilowicz/big-data-scala-spark-batch-workshop
 
 # blockchain
+* [![Build Status](https://app.travis-ci.com/mtumilowicz/bitcoin-address-workshop.svg?branch=master)](https://app.travis-ci.com/mtumilowicz/bitcoin-address-workshop) 
+https://github.com/mtumilowicz/bitcoin-address-workshop
+* https://github.com/mtumilowicz/bitcoin-transaction-workshop
+
+# concurrency
 * [![Build Status](https://travis-ci.com/mtumilowicz/java12-concurrency-singleton-pattern-workshop.svg?branch=master)](https://travis-ci.com/mtumilowicz/java12-concurrency-singleton-pattern-workshop)
 https://github.com/mtumilowicz/java12-concurrency-singleton-pattern-workshop
 * [![Build Status](https://app.travis-ci.com/mtumilowicz/clojure-concurrency-stm-workshop.svg?branch=master)](https://app.travis-ci.com/mtumilowicz/clojure-concurrency-stm-workshop)
@@ -30,11 +35,6 @@ https://github.com/mtumilowicz/cryptography-rsa-workshop
 https://github.com/mtumilowicz/cryptography-hsm-workshop
 * [![Build Status](https://app.travis-ci.com/mtumilowicz/scala-zio2-test-aspects-property-based-testing-workshop.svg?branch=master)](https://app.travis-ci.com/mtumilowicz/scala-zio2-test-aspects-property-based-testing-workshop)
 https://github.com/mtumilowicz/elliptic-curve-workshop
-
-# cryptocurrency
-* [![Build Status](https://app.travis-ci.com/mtumilowicz/bitcoin-address-workshop.svg?branch=master)](https://app.travis-ci.com/mtumilowicz/bitcoin-address-workshop) 
-https://github.com/mtumilowicz/bitcoin-address-workshop
-* https://github.com/mtumilowicz/bitcoin-transaction-workshop
 
 # design patterns
 * [![Build Status](https://travis-ci.com/mtumilowicz/java15-design-patterns-made-functional-workshop.svg?branch=master)](https://travis-ci.com/mtumilowicz/java15-design-patterns-made-functional-workshop)
