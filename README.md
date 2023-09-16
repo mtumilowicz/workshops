@@ -17,7 +17,7 @@ https://github.com/mtumilowicz/scala-algorithms-bfs-dfs-astar-workshop
 * [![Build Status](https://travis-ci.com/mtumilowicz/big-data-scala-spark-batch-workshop.svg?branch=master)](https://travis-ci.com/mtumilowicz/big-data-scala-spark-batch-workshop)
 https://github.com/mtumilowicz/big-data-scala-spark-batch-workshop
 
-# concurrency
+# blockchain
 * [![Build Status](https://travis-ci.com/mtumilowicz/java12-concurrency-singleton-pattern-workshop.svg?branch=master)](https://travis-ci.com/mtumilowicz/java12-concurrency-singleton-pattern-workshop)
 https://github.com/mtumilowicz/java12-concurrency-singleton-pattern-workshop
 * [![Build Status](https://app.travis-ci.com/mtumilowicz/clojure-concurrency-stm-workshop.svg?branch=master)](https://app.travis-ci.com/mtumilowicz/clojure-concurrency-stm-workshop)
