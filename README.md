@@ -21,6 +21,7 @@ https://github.com/mtumilowicz/big-data-scala-spark-batch-workshop
 * [![Build Status](https://app.travis-ci.com/mtumilowicz/bitcoin-address-workshop.svg?branch=master)](https://app.travis-ci.com/mtumilowicz/bitcoin-address-workshop) 
 https://github.com/mtumilowicz/bitcoin-address-workshop
 * https://github.com/mtumilowicz/bitcoin-transaction-workshop
+* https://github.com/mtumilowicz/ethereum-gas-fee-workshop
 * https://github.com/mtumilowicz/solidity-basics-event-ticketing-app-workshop
 
 # concurrency
