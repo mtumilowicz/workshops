@@ -22,7 +22,7 @@ https://github.com/mtumilowicz/big-data-scala-spark-batch-workshop
 https://github.com/mtumilowicz/bitcoin-address-workshop
 * https://github.com/mtumilowicz/bitcoin-transaction-workshop
 * https://github.com/mtumilowicz/ethereum-gas-workshop
-* https://github.com/mtumilowicz/solidity-basics-event-ticketing-app-workshop
+* https://github.com/mtumilowicz/solidity-basics-workshop
 
 # concurrency
 * [![Build Status](https://travis-ci.com/mtumilowicz/java12-concurrency-singleton-pattern-workshop.svg?branch=master)](https://travis-ci.com/mtumilowicz/java12-concurrency-singleton-pattern-workshop)
