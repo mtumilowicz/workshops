@@ -23,6 +23,7 @@ https://github.com/mtumilowicz/bitcoin-address-workshop
 * https://github.com/mtumilowicz/bitcoin-transaction-workshop
 * https://github.com/mtumilowicz/ethereum-gas-workshop
 * https://github.com/mtumilowicz/solidity-basics-workshop
+* https://github.com/mtumilowicz/solidity-token-design-patterns-workshop
 
 # concurrency
 * [![Build Status](https://travis-ci.com/mtumilowicz/java12-concurrency-singleton-pattern-workshop.svg?branch=master)](https://travis-ci.com/mtumilowicz/java12-concurrency-singleton-pattern-workshop)
