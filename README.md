@@ -123,6 +123,10 @@ https://github.com/mtumilowicz/groovy258-category-mixin-runtime-metaprogramming-
 * [![Build Status](https://travis-ci.com/mtumilowicz/groovy258-ast-compile-time-metaprogramming-workshop.svg?branch=master)](https://travis-ci.com/mtumilowicz/groovy258-ast-compile-time-metaprogramming-workshop)
 https://github.com/mtumilowicz/groovy258-ast-compile-time-metaprogramming-workshop
 
+# rust
+* [![Build Status](https://app.travis-ci.com/mtumilowicz/rust-rocket-workshop.svg?branch=master)](https://app.travis-ci.com/mtumilowicz/rust-rocket-workshop)
+https://github.com/mtumilowicz/rust-rocket-workshop
+
 # reactive programming
 * [![Build Status](https://travis-ci.com/mtumilowicz/java12-introduction-to-reactive-programming-workshop.svg?branch=master)](https://travis-ci.com/mtumilowicz/java12-introduction-to-reactive-programming-workshop)
 https://github.com/mtumilowicz/java12-introduction-to-reactive-programming-workshop
