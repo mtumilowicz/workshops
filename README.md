@@ -102,7 +102,7 @@ https://github.com/mtumilowicz/java12-fundamentals-cache-implementations-worksho
 https://github.com/mtumilowicz/java12-fundamentals-tail-recursion-workshop
 * [![Build Status](https://app.travis-ci.com/mtumilowicz/elliptic-curve-workshop.svg?branch=master)](https://app.travis-ci.com/mtumilowicz/elliptic-curve-workshop)
 https://github.com/mtumilowicz/zio2-fiber-workshop
-[![Build Status](https://app.travis-ci.com/mtumilowicz/scala3-dependent-types-workshop.svg?token=PwyvjePQ7aiAX51hSYLE&branch=main)](https://app.travis-ci.com/mtumilowicz/scala3-dependent-types-workshop)
+* [![Build Status](https://app.travis-ci.com/mtumilowicz/scala3-dependent-types-polymorphic-functions-workshop.svg?token=PwyvjePQ7aiAX51hSYLE&branch=main)](https://app.travis-ci.com/mtumilowicz/scala3-dependent-types-polymorphic-functions-workshop)
 https://github.com/mtumilowicz/scala3-dependent-types-polymorphic-functions-workshop
 
 # graphQl
