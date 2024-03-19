@@ -104,6 +104,8 @@ https://github.com/mtumilowicz/java12-fundamentals-tail-recursion-workshop
 https://github.com/mtumilowicz/zio2-fiber-workshop
 * [![Build Status](https://app.travis-ci.com/mtumilowicz/scala3-dependent-types-polymorphic-functions-workshop.svg?token=PwyvjePQ7aiAX51hSYLE&branch=main)](https://app.travis-ci.com/mtumilowicz/scala3-dependent-types-polymorphic-functions-workshop)
 https://github.com/mtumilowicz/scala3-dependent-types-polymorphic-functions-workshop
+* [![Build Status](https://app.travis-ci.com/mtumilowicz/java17-mesi-false-sharing-processor-optimisations-workshop.svg?token=PwyvjePQ7aiAX51hSYLE&branch=main)](https://app.travis-ci.com/mtumilowicz/java17-mesi-false-sharing-processor-optimisations-workshop)
+https://github.com/mtumilowicz/java17-mesi-false-sharing-processor-optimisations-workshop
 
 # graphQl
 * [![Build Status](https://app.travis-ci.com/mtumilowicz/scala-graphql-caliban-workshop.svg?branch=master)](https://app.travis-ci.com/mtumilowicz/scala-graphql-caliban-workshop)
