@@ -61,7 +61,7 @@ https://github.com/mtumilowicz/groovy258-dsl-closure-workshop
 https://github.com/mtumilowicz/kotlin-dsl-lambda-workshop
 
 # elasticsearch
-* [![Build Status](https://travis-ci.com/mtumilowicz/java12-elasticsearch-inverted-index-workshop.svg?branch=master)](https://travis-ci.com/mtumilowicz/java12-elasticsearch-inverted-index-workshop)
+* [![Build Status](https://app.travis-ci.com/mtumilowicz/java12-elasticsearch-inverted-index-workshop.svg?branch=master)](https://travis-ci.com/mtumilowicz/java12-elasticsearch-inverted-index-workshop)
 https://github.com/mtumilowicz/java12-elasticsearch-inverted-index-workshop
 * https://github.com/mtumilowicz/elasticsearch7-query-filter-aggregation-workshop
 * https://github.com/mtumilowicz/elasticsearch7-relations-among-documents-workshop
