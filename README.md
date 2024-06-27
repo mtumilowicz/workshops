@@ -29,6 +29,7 @@ https://github.com/mtumilowicz/bitcoin-address-workshop
 * [![Build Status](https://app.travis-ci.com/mtumilowicz/java12-concurrency-singleton-pattern-workshop.svg?branch=master)](https://travis-ci.com/mtumilowicz/java12-concurrency-singleton-pattern-workshop)
 https://github.com/mtumilowicz/java12-concurrency-singleton-pattern-workshop
 * [![Build Status](https://app.travis-ci.com/mtumilowicz/scala-zio-stm-workshop.svg?token=PwyvjePQ7aiAX51hSYLE&branch=main)](https://app.travis-ci.com/mtumilowicz/scala-zio-stm-workshop) https://github.com/mtumilowicz/scala-zio-stm-workshop
+* [![Build Status](https://app.travis-ci.com/mtumilowicz/go-concurrency-goroutine-workshop.svg?token=PwyvjePQ7aiAX51hSYLE&branch=main)](https://app.travis-ci.com/mtumilowicz/go-concurrency-goroutine-workshop) https://github.com/mtumilowicz/go-concurrency-goroutine-workshop
 
 # cryptography
 * [![Build Status](https://app.travis-ci.com/mtumilowicz/cryptography-rsa-workshop.svg?branch=master)](https://app.travis-ci.com/mtumilowicz/cryptography-rsa-workshop)
