@@ -28,8 +28,8 @@ https://github.com/mtumilowicz/bitcoin-address-workshop
 # concurrency
 * [![Build Status](https://app.travis-ci.com/mtumilowicz/java12-concurrency-singleton-pattern-workshop.svg?branch=master)](https://travis-ci.com/mtumilowicz/java12-concurrency-singleton-pattern-workshop)
 https://github.com/mtumilowicz/java12-concurrency-singleton-pattern-workshop
-* [![Build Status](https://app.travis-ci.com/mtumilowicz/scala-zio-stm-workshop.svg?token=PwyvjePQ7aiAX51hSYLE&branch=main)](https://app.travis-ci.com/mtumilowicz/scala-zio-stm-workshop) https://github.com/mtumilowicz/scala-zio-stm-workshop
-* [![Build Status](https://app.travis-ci.com/mtumilowicz/go-concurrency-goroutine-workshop.svg?token=PwyvjePQ7aiAX51hSYLE&branch=main)](https://app.travis-ci.com/mtumilowicz/go-concurrency-goroutine-workshop) https://github.com/mtumilowicz/go-concurrency-goroutine-workshop
+* [![Build Status](https://app.travis-ci.com/mtumilowicz/scala-zio-stm-workshop.svg?branch=main)](https://app.travis-ci.com/mtumilowicz/scala-zio-stm-workshop) https://github.com/mtumilowicz/scala-zio-stm-workshop
+* [![Build Status](https://app.travis-ci.com/mtumilowicz/go-concurrency-goroutine-workshop.svg&branch=main)](https://app.travis-ci.com/mtumilowicz/go-concurrency-goroutine-workshop) https://github.com/mtumilowicz/go-concurrency-goroutine-workshop
 
 # cryptography
 * [![Build Status](https://app.travis-ci.com/mtumilowicz/cryptography-rsa-workshop.svg?branch=master)](https://app.travis-ci.com/mtumilowicz/cryptography-rsa-workshop)
@@ -102,13 +102,13 @@ https://github.com/mtumilowicz/java12-fundamentals-cache-implementations-worksho
 https://github.com/mtumilowicz/java12-fundamentals-tail-recursion-workshop
 * [![Build Status](https://app.travis-ci.com/mtumilowicz/elliptic-curve-workshop.svg?branch=master)](https://app.travis-ci.com/mtumilowicz/elliptic-curve-workshop)
 https://github.com/mtumilowicz/zio2-fiber-workshop
-* [![Build Status](https://app.travis-ci.com/mtumilowicz/scala3-dependent-types-polymorphic-functions-workshop.svg?token=PwyvjePQ7aiAX51hSYLE&branch=main)](https://app.travis-ci.com/mtumilowicz/scala3-dependent-types-polymorphic-functions-workshop)
+* [![Build Status](https://app.travis-ci.com/mtumilowicz/scala3-dependent-types-polymorphic-functions-workshop.svg?branch=main)](https://app.travis-ci.com/mtumilowicz/scala3-dependent-types-polymorphic-functions-workshop)
 https://github.com/mtumilowicz/scala3-dependent-types-polymorphic-functions-workshop
-* [![Build Status](https://app.travis-ci.com/mtumilowicz/java17-mesi-false-sharing-processor-optimisations-workshop.svg?token=PwyvjePQ7aiAX51hSYLE&branch=main)](https://app.travis-ci.com/mtumilowicz/java17-mesi-false-sharing-processor-optimisations-workshop)
+* [![Build Status](https://app.travis-ci.com/mtumilowicz/java17-mesi-false-sharing-processor-optimisations-workshop.svg?branch=main)](https://app.travis-ci.com/mtumilowicz/java17-mesi-false-sharing-processor-optimisations-workshop)
 https://github.com/mtumilowicz/java17-mesi-false-sharing-processor-optimisations-workshop
 
 # golang
-* [![Build Status](https://app.travis-ci.com/mtumilowicz/go-chi-gorilla-wire-workshop.svg?token=PwyvjePQ7aiAX51hSYLE&branch=main)](https://app.travis-ci.com/mtumilowicz/go-chi-gorilla-wire-workshop) https://github.com/mtumilowicz/go-chi-gorilla-wire-workshop
+* [![Build Status](https://app.travis-ci.com/mtumilowicz/go-chi-gorilla-wire-workshop.svg?branch=main)](https://app.travis-ci.com/mtumilowicz/go-chi-gorilla-wire-workshop) https://github.com/mtumilowicz/go-chi-gorilla-wire-workshop
 
 # graphQl
 * [![Build Status](https://app.travis-ci.com/mtumilowicz/scala-graphql-caliban-workshop.svg?branch=master)](https://app.travis-ci.com/mtumilowicz/scala-graphql-caliban-workshop)
