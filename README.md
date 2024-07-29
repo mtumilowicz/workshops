@@ -109,6 +109,7 @@ https://github.com/mtumilowicz/java17-mesi-false-sharing-processor-optimisations
 
 # golang
 * [![Build Status](https://app.travis-ci.com/mtumilowicz/go-chi-gorilla-wire-workshop.svg?branch=main)](https://app.travis-ci.com/mtumilowicz/go-chi-gorilla-wire-workshop) https://github.com/mtumilowicz/go-chi-gorilla-wire-workshop
+* [![Build Status](https://app.travis-ci.com/mtumilowicz/go-concurrency-goroutine-workshop.svg?token=PwyvjePQ7aiAX51hSYLE&branch=main)](https://app.travis-ci.com/mtumilowicz/go-concurrency-goroutine-workshop) https://github.com/mtumilowicz/go-concurrency-goroutine-workshop
 
 # graphQl
 * [![Build Status](https://app.travis-ci.com/mtumilowicz/scala-graphql-caliban-workshop.svg?branch=master)](https://app.travis-ci.com/mtumilowicz/scala-graphql-caliban-workshop)
