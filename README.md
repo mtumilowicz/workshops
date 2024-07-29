@@ -143,6 +143,9 @@ https://github.com/mtumilowicz/java12-introduction-to-reactive-programming-works
 * [![Build Status](https://app.travis-ci.com/mtumilowicz/scala-zio2-scopt-workshop.svg?branch=master)](https://app.travis-ci.com/mtumilowicz/scala-zio2-scopt-workshop) https://github.com/mtumilowicz/scala-zio2-scopt-workshop
 * [![Build Status](https://app.travis-ci.com/mtumilowicz/scala-zio2-partially-applied-types-workshop.svg?branch=master)](https://app.travis-ci.com/mtumilowicz/scala-zio2-partially-applied-types-workshop) https://github.com/mtumilowicz/scala-zio2-partially-applied-types-workshop
 
+# security
+* [![Build Status](https://app.travis-ci.com/mtumilowicz/java-spring-boot-oauth2-oidc-pkce-workshop.svg?token=PwyvjePQ7aiAX51hSYLE&branch=main)](https://app.travis-ci.com/mtumilowicz/java-spring-boot-oauth2-oidc-pkce-workshop) https://github.com/mtumilowicz/java-spring-boot-oauth2-oidc-pkce-workshop
+
 # server
 ## blocking
 * [![Build Status](https://app.travis-ci.com/mtumilowicz/java12-io-socket-client-server-workshop.svg?branch=master)](https://travis-ci.com/mtumilowicz/java12-io-socket-client-server-workshop) https://github.com/mtumilowicz/java12-io-socket-client-server-workshop
