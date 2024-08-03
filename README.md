@@ -48,6 +48,7 @@ https://github.com/mtumilowicz/java15-design-patterns-made-functional-workshop
 * https://github.com/mtumilowicz/linux-terminal-bash-workshop
 * https://github.com/mtumilowicz/terraform-basics-modules-workshop
 * https://github.com/mtumilowicz/terraform-remotebackend-workspaces-aws-workshop
+* https://github.com/mtumilowicz/argoCD-workshop
 
 # dependency injection
 * [![Build Status](https://app.travis-ci.com/mtumilowicz/kotlin-DI-spring-batch-workshop.svg?branch=master)](https://travis-ci.com/mtumilowicz/kotlin-DI-spring-batch-workshop)
