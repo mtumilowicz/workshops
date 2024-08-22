@@ -50,6 +50,7 @@ https://github.com/mtumilowicz/java15-design-patterns-made-functional-workshop
 * https://github.com/mtumilowicz/terraform-remotebackend-workspaces-aws-workshop
 * https://github.com/mtumilowicz/argoCD-workshop
 * [![Build Status](https://app.travis-ci.com/mtumilowicz/go-continuous-deployment-workshop.svg?token=PwyvjePQ7aiAX51hSYLE&branch=main)](https://app.travis-ci.com/mtumilowicz/go-continuous-deployment-workshop) https://github.com/mtumilowicz/go-continuous-deployment-workshop
+* [![Build Status](https://app.travis-ci.com/mtumilowicz/bitnami-sealed-secrets-workshop.svg?token=PwyvjePQ7aiAX51hSYLE&branch=main)](https://app.travis-ci.com/mtumilowicz/bitnami-sealed-secrets-workshop) https://github.com/mtumilowicz/bitnami-sealed-secrets-workshop
 
 # dependency injection
 * [![Build Status](https://app.travis-ci.com/mtumilowicz/kotlin-DI-spring-batch-workshop.svg?branch=master)](https://travis-ci.com/mtumilowicz/kotlin-DI-spring-batch-workshop)
