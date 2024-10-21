@@ -29,7 +29,7 @@ https://github.com/mtumilowicz/bitcoin-address-workshop
 * [![Build Status](https://app.travis-ci.com/mtumilowicz/java12-concurrency-singleton-pattern-workshop.svg?branch=master)](https://travis-ci.com/mtumilowicz/java12-concurrency-singleton-pattern-workshop)
 https://github.com/mtumilowicz/java12-concurrency-singleton-pattern-workshop
 * [![Build Status](https://app.travis-ci.com/mtumilowicz/scala-zio-stm-workshop.svg?branch=main)](https://app.travis-ci.com/mtumilowicz/scala-zio-stm-workshop) https://github.com/mtumilowicz/scala-zio-stm-workshop
-* [![Build Status](https://app.travis-ci.com/mtumilowicz/go-concurrency-goroutine-workshop.svg?branch=main)](https://app.travis-ci.com/mtumilowicz/go-concurrency-goroutine-workshop) https://github.com/mtumilowicz/go-concurrency-goroutine-workshop
+* [![Build Status](https://app.travis-ci.com/mtumilowicz/go-concurrency-goroutine-workshop.svg)](https://app.travis-ci.com/mtumilowicz/go-concurrency-goroutine-workshop) https://github.com/mtumilowicz/go-concurrency-goroutine-workshop
 
 # cryptography
 * [![Build Status](https://app.travis-ci.com/mtumilowicz/cryptography-rsa-workshop.svg?branch=master)](https://app.travis-ci.com/mtumilowicz/cryptography-rsa-workshop)
@@ -50,7 +50,7 @@ https://github.com/mtumilowicz/java15-design-patterns-made-functional-workshop
 * https://github.com/mtumilowicz/terraform-remotebackend-workspaces-aws-workshop
 * https://github.com/mtumilowicz/argoCD-workshop
 * [![Build Status](https://app.travis-ci.com/mtumilowicz/go-continuous-deployment-makefile-workshop.svg?branch=main)](https://app.travis-ci.com/mtumilowicz/go-continuous-deployment-makefile-workshop) https://github.com/mtumilowicz/go-continuous-deployment-makefile-workshop
-* [![Build Status](https://app.travis-ci.com/mtumilowicz/bitnami-sealed-secrets-workshop.svg&branch=main)](https://app.travis-ci.com/mtumilowicz/bitnami-sealed-secrets-workshop) https://github.com/mtumilowicz/bitnami-sealed-secrets-workshop
+* [![Build Status](https://app.travis-ci.com/mtumilowicz/bitnami-sealed-secrets-workshop.svg)](https://app.travis-ci.com/mtumilowicz/bitnami-sealed-secrets-workshop) https://github.com/mtumilowicz/bitnami-sealed-secrets-workshop
 
 # dependency injection
 * [![Build Status](https://app.travis-ci.com/mtumilowicz/kotlin-DI-spring-batch-workshop.svg?branch=master)](https://travis-ci.com/mtumilowicz/kotlin-DI-spring-batch-workshop)
@@ -148,7 +148,7 @@ https://github.com/mtumilowicz/java12-introduction-to-reactive-programming-works
 * [![Build Status](https://app.travis-ci.com/mtumilowicz/scala-zio2-partially-applied-types-workshop.svg?branch=master)](https://app.travis-ci.com/mtumilowicz/scala-zio2-partially-applied-types-workshop) https://github.com/mtumilowicz/scala-zio2-partially-applied-types-workshop
 
 # security
-* [![Build Status](https://app.travis-ci.com/mtumilowicz/java-spring-boot-oauth2-oidc-pkce-workshop.svg&branch=main)](https://app.travis-ci.com/mtumilowicz/java-spring-boot-oauth2-oidc-pkce-workshop) https://github.com/mtumilowicz/java-spring-boot-oauth2-oidc-pkce-workshop
+* [![Build Status](https://app.travis-ci.com/mtumilowicz/java-spring-boot-oauth2-oidc-pkce-workshop.svg)](https://app.travis-ci.com/mtumilowicz/java-spring-boot-oauth2-oidc-pkce-workshop) https://github.com/mtumilowicz/java-spring-boot-oauth2-oidc-pkce-workshop
 
 # server
 ## blocking
