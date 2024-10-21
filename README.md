@@ -49,7 +49,7 @@ https://github.com/mtumilowicz/java15-design-patterns-made-functional-workshop
 * https://github.com/mtumilowicz/terraform-basics-modules-workshop
 * https://github.com/mtumilowicz/terraform-remotebackend-workspaces-aws-workshop
 * https://github.com/mtumilowicz/argoCD-workshop
-* [![Build Status](https://app.travis-ci.com/mtumilowicz/go-continuous-deployment-makefile-workshop.svg?token=PwyvjePQ7aiAX51hSYLE&branch=main)](https://app.travis-ci.com/mtumilowicz/go-continuous-deployment-makefile-workshop) https://github.com/mtumilowicz/go-continuous-deployment-makefile-workshop
+* [![Build Status](https://app.travis-ci.com/mtumilowicz/go-continuous-deployment-makefile-workshop.svg?branch=main)](https://app.travis-ci.com/mtumilowicz/go-continuous-deployment-makefile-workshop) https://github.com/mtumilowicz/go-continuous-deployment-makefile-workshop
 * [![Build Status](https://app.travis-ci.com/mtumilowicz/bitnami-sealed-secrets-workshop.svg?token=PwyvjePQ7aiAX51hSYLE&branch=main)](https://app.travis-ci.com/mtumilowicz/bitnami-sealed-secrets-workshop) https://github.com/mtumilowicz/bitnami-sealed-secrets-workshop
 
 # dependency injection
