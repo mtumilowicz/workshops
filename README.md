@@ -110,6 +110,7 @@ https://github.com/mtumilowicz/zio2-fiber-workshop
 https://github.com/mtumilowicz/scala3-dependent-types-polymorphic-functions-workshop
 * [![Build Status](https://app.travis-ci.com/mtumilowicz/java17-mesi-false-sharing-processor-optimisations-workshop.svg?branch=main)](https://app.travis-ci.com/mtumilowicz/java17-mesi-false-sharing-processor-optimisations-workshop)
 https://github.com/mtumilowicz/java17-mesi-false-sharing-processor-optimisations-workshop
+* https://github.com/mtumilowicz/java-yaml-migration-workshop
 
 # golang
 * [![Build Status](https://app.travis-ci.com/mtumilowicz/go-chi-gorilla-wire-workshop.svg?branch=main)](https://app.travis-ci.com/mtumilowicz/go-chi-gorilla-wire-workshop) https://github.com/mtumilowicz/go-chi-gorilla-wire-workshop
@@ -149,6 +150,7 @@ https://github.com/mtumilowicz/java12-introduction-to-reactive-programming-works
 
 # security
 * [![Build Status](https://app.travis-ci.com/mtumilowicz/java-spring-boot-oauth2-oidc-pkce-workshop.svg?branch=main)](https://app.travis-ci.com/mtumilowicz/java-spring-boot-oauth2-oidc-pkce-workshop) https://github.com/mtumilowicz/java-spring-boot-oauth2-oidc-pkce-workshop
+* https://github.com/mtumilowicz/secure-logging-spring-boot-workshop
 
 # server
 ## blocking
