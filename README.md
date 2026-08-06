@@ -138,6 +138,9 @@ https://github.com/mtumilowicz/groovy258-category-mixin-runtime-metaprogramming-
 * [![Build Status](https://app.travis-ci.com/mtumilowicz/groovy258-ast-compile-time-metaprogramming-workshop.svg?branch=master)](https://travis-ci.com/mtumilowicz/groovy258-ast-compile-time-metaprogramming-workshop)
 https://github.com/mtumilowicz/groovy258-ast-compile-time-metaprogramming-workshop
 
+# open service broker
+* https://github.com/mtumilowicz/open-service-broker-platform-catalogue-workshop
+
 # rust
 * [![Build Status](https://app.travis-ci.com/mtumilowicz/rust-rocket-workshop.svg?branch=master)](https://app.travis-ci.com/mtumilowicz/rust-rocket-workshop)
 https://github.com/mtumilowicz/rust-rocket-workshop
