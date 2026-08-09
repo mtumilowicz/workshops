@@ -142,6 +142,7 @@ https://github.com/mtumilowicz/groovy258-ast-compile-time-metaprogramming-worksh
 * https://github.com/mtumilowicz/open-service-broker-platform-catalogue-workshop
 * 
 * https://github.com/mtumilowicz/open-service-broker-broker-binding-workshop
+* https://github.com/mtumilowicz/open-service-broker-platform-orphan-mitigation-workshop
 
 # rust
 * [![Build Status](https://app.travis-ci.com/mtumilowicz/rust-rocket-workshop.svg?branch=master)](https://app.travis-ci.com/mtumilowicz/rust-rocket-workshop)
