@@ -140,7 +140,7 @@ https://github.com/mtumilowicz/groovy258-ast-compile-time-metaprogramming-worksh
 
 # open service broker
 * https://github.com/mtumilowicz/open-service-broker-platform-catalogue-workshop
-* 
+* https://github.com/mtumilowicz/open-service-broker-broker-workshop
 * https://github.com/mtumilowicz/open-service-broker-broker-binding-workshop
 * https://github.com/mtumilowicz/open-service-broker-platform-orphan-mitigation-workshop
 
