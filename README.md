@@ -160,6 +160,7 @@ https://github.com/mtumilowicz/java12-introduction-to-reactive-programming-works
 # security
 * [![Build Status](https://app.travis-ci.com/mtumilowicz/java-spring-boot-oauth2-oidc-pkce-workshop.svg?branch=main)](https://app.travis-ci.com/mtumilowicz/java-spring-boot-oauth2-oidc-pkce-workshop) https://github.com/mtumilowicz/java-spring-boot-oauth2-oidc-pkce-workshop
 * https://github.com/mtumilowicz/secure-logging-spring-boot-workshop
+* https://github.com/mtumilowicz/sops-age-key-workshop
 
 # server
 ## blocking
