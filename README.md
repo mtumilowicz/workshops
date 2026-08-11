@@ -178,6 +178,7 @@ https://github.com/mtumilowicz/java12-introduction-to-reactive-programming-works
 https://github.com/mtumilowicz/scala-zio2-test-aspects-property-based-testing-workshop
 * [![Build Status](https://app.travis-ci.com/mtumilowicz/scala-zio2-test-sharing-resources-testcontainers-workshop.svg?branch=master)](https://app.travis-ci.com/mtumilowicz/scala-zio2-test-sharing-resources-testcontainers-workshop)
 https://github.com/mtumilowicz/scala-zio2-test-sharing-resources-testcontainers-workshop
+* https://github.com/mtumilowicz/spring-boot-ci-test-sharding-workshop
 
 # vavr
 * [![Build Status](https://app.travis-ci.com/mtumilowicz/java11-vavr093-workshops.svg?branch=master)](https://travis-ci.com/mtumilowicz/java11-vavr093-workshops)
