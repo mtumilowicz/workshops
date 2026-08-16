@@ -56,6 +56,7 @@ https://github.com/mtumilowicz/java15-design-patterns-made-functional-workshop
 * [![Build Status](https://app.travis-ci.com/mtumilowicz/bitnami-sealed-secrets-workshop.svg?branch=main)](https://app.travis-ci.com/mtumilowicz/bitnami-sealed-secrets-workshop) https://github.com/mtumilowicz/bitnami-sealed-secrets-workshop
 * [![Build Status](https://app.travis-ci.com/mtumilowicz/kubernetes-workshop.svg?branch=main)](https://app.travis-ci.com/mtumilowicz/kubernetes-workshop) https://github.com/mtumilowicz/kubernetes-workshop
 * https://github.com/mtumilowicz/kustomize-workshop
+* https://github.com/mtumilowicz/gitops-flux-workshop
 
 # dependency injection
 * [![Build Status](https://app.travis-ci.com/mtumilowicz/kotlin-DI-spring-batch-workshop.svg?branch=master)](https://travis-ci.com/mtumilowicz/kotlin-DI-spring-batch-workshop)
