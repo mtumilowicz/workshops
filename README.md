@@ -40,7 +40,7 @@ https://github.com/mtumilowicz/cryptography-hsm-workshop
 https://github.com/mtumilowicz/elliptic-curve-workshop
 
 # ddd
-* https://github.com/mtumilowicz/open-service-broker-aggregated-state-workshop
+* https://github.com/mtumilowicz/aggregated-state-workshop
 
 # design patterns
 * [![Build Status](https://app.travis-ci.com/mtumilowicz/java15-design-patterns-made-functional-workshop.svg?branch=master)](https://travis-ci.com/mtumilowicz/java15-design-patterns-made-functional-workshop)
